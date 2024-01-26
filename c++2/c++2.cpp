@@ -6,7 +6,7 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
 
-    double m = 0.0;
+    double m;
     double a, b;
     int o;
 
